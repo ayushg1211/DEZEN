@@ -9,7 +9,7 @@ const Footer = () => {
         </div>
         <section className={styles.footerInfoCont}>
             <div className={styles.infoCont}>
-                <figure className={styles.footerlogoCont}><img src="/public/images/awnlogo21-white.png" alt="" /></figure>
+                <figure className={styles.footerlogoCont}><img src="/images/awnlogo21-white.png" alt="" /></figure>
                 <div className={styles.contactCont}>
                     <div className={styles.contact}><span className={styles.contactIcons}><img src="/icons/phone.svg" alt="" /></span><span className={styles.contactText}>0582940754</span></div>
                     <div className={styles.contact}><span className={styles.contactIcons}><img src="/icons/mail.svg" alt="" /></span><span className={styles.contactText}>care@awn.s</span></div>

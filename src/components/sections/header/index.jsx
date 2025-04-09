@@ -7,7 +7,7 @@ const Header = () => {
       <div className={styles.header}>
             <div className={styles.imgCont}>
               <a href="/">
-                <img src="/public/images/awnlogo21.png" alt="Your Site Logo" />
+                <img src="/images/awnlogo21.png" alt="Your Site Logo" />
               </a>
             </div>
             <time datetime="2025-03-25" className={styles.date}><span className={styles.text}>Date:</span> <span className={styles.mar}>13 Mar 2025</span></time>

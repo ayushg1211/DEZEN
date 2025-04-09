@@ -9,7 +9,7 @@ import { BarCharts } from '../../subsections/barcharts'
 const Ersr = () => {
   return (
     <section className={styles.ersrCont}>
-        <figure><img src="/public/images/image39.png" alt="" /></figure>
+        <figure><img src="/images/image39.png" alt="" /></figure>
         <h3>Employee Residency Status Report</h3>
         <p>This report provides the residency (Iqama) status of employees, including expiry dates, issuance dates, and renewal status for the month of <span>March.</span></p>
 
