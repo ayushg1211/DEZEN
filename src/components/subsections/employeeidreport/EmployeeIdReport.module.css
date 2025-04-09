@@ -1,0 +1,124 @@
+.reports{
+    margin-bottom: 20px;
+}
+
+.reports>h3{
+    margin-bottom: 12px;
+    text-align: center;
+    font-family: 'Centrale Sans Medium', sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 130%;
+    letter-spacing: 0%;
+    color: #04080B;
+}
+
+.tableWrapper {
+    border-radius: 8px;
+    overflow: hidden;
+    border: 1px solid #E4E4E4; /* optional: to keep consistent outer border */
+    width: 100%;
+    height:100% ;
+  }
+
+  .table{
+    width: 100%;
+    height: 100%;
+    border: none;
+    border-collapse: collapse;
+    border-radius: 8px;
+    overflow: hidden;
+    border: 1px solid #E4E4E4;
+}
+
+.headCont{
+    width: 100%;
+    background-color: #F2F4F7;
+    font-family: 'Centrale Sans Bold' sans-serif;
+font-weight: 700;
+font-size: 8px;
+line-height: 130%;
+letter-spacing: 0%;
+text-align: center;
+color: #04080B;
+
+}
+
+.tableHeadings>th{
+    padding: 8px;
+    border: 1px solid #E4E4E4;
+    font-family: 'Centrale Sans Bold', sans-serif;
+font-weight: 700;
+font-size: 8px;
+line-height: 130%;
+letter-spacing: 0%;
+text-align: center;
+
+}
+
+.tableRow>td{
+    padding: 7px;
+    border: 1px solid #E4E4E4;
+
+    font-family: 'Centrale Sans Regular', sans-serif;
+font-weight: 400;
+font-size: 6px;
+line-height: 130%;
+letter-spacing: 0%;
+text-align: center;
+color: #04080B;
+
+}
+
+.end>div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+
+.colorCont{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: fit-content;
+    padding: 4.5px 4.5px 4.5px 6.5px;
+    border-radius: 16px;
+    gap: 4px;
+}
+
+#active{
+    background-color: #ECFDF3;
+    color: #12B76A;
+}
+
+#active>span{
+    width: 4px;
+    height: 4px;
+    border-radius: 50%; 
+    background-color: #12B76A;
+}
+
+#expiring{
+    background-color: #FDF6E7;
+    color: #E29B10;
+}
+
+#expiring>span{
+    width: 4px;
+    height: 4px;
+    border-radius: 50%; 
+    background-color: #E29B10;
+}
+
+#expired{
+    background-color: #FEF3F2;
+    color: #B32318;
+}
+
+#expired>span{
+    width: 4px;
+    height: 4px;
+    border-radius: 50%; 
+    background-color: #B32318;
+}

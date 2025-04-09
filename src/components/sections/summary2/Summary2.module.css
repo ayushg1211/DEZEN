@@ -1,0 +1,97 @@
+.summary{
+    padding: 20px 22px 12px;
+}
+
+.summary>h4{
+    font-family: 'Centrale Sans Bold', sans-serif;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 130%;
+    letter-spacing: 0%;
+    color: #1A6D73;
+    margin-bottom: 12px;
+    margin-left: 2px;
+}
+
+
+
+.summaryList{
+    display: flex;
+    flex-direction: column;
+    padding-left: 18px;
+    font-family: 'Centrale Sans Regular', sans-serif;
+    font-weight: 400;
+    font-size: 11px;
+    line-height: 130%;
+    letter-spacing: 0%;
+    color: #04080B;
+    gap: 22px;
+    margin-bottom: 24px;
+}
+
+.para{
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    font-family: 'Centrale Sans Regular', sans-serif;
+font-weight: 400;
+font-size: 11px;
+line-height: 140%;
+letter-spacing: 0%;
+color: #04080B;
+margin-bottom: 15px;
+}
+
+.finalSum{
+    display: flex;
+    flex-direction: column;
+    padding-left: 14px;
+    gap: 16px;
+}
+
+.listHead{
+    /* display: flex;
+    flex-direction: column;
+    gap: 8px; */
+    font-family: 'Centrale Sans Bold', sans-serif ;
+    font-weight: 700;
+    font-size: 11px;
+    line-height: 140%;
+    letter-spacing: 0%;
+    color: #1A6D73;   
+ 
+}
+
+.listHead>h3{
+    margin-left: 4px;
+    font-family: 'Centrale Sans Bold', sans-serif;
+    font-weight: 700;
+    font-size: 11px;
+    line-height: 140%;
+    letter-spacing: 0%;
+    color: #1A6D73;   
+}
+
+.listHead>ul{
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    font-family: 'Centrale Sans Medium', sans-serif;
+    margin-top: 8px;
+font-weight: 500;
+font-size: 11px;
+line-height: 140%;
+letter-spacing: 0%;
+color: #04080B;
+list-style: disc;
+margin-left: 22px;
+}
+
+.listHead>ul>li>span{
+    font-family: 'Centrale Sans Bold', sans-serif;
+font-weight: 700;
+font-size: 11px;
+line-height: 140%;
+letter-spacing: 0%;
+
+}

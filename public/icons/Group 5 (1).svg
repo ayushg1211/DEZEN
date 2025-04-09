@@ -1,0 +1,13 @@
+<svg width="14" height="13" viewBox="0 0 14 13" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Group 5">
+<circle id="Ellipse 1" cx="6.83334" cy="6.5" r="6.5" fill="white"/>
+<g id="lucide/user-round-check" clip-path="url(#clip0_1_132)">
+<path id="Vector" d="M3.75 9.875C3.74997 9.29762 3.91655 8.7325 4.22975 8.24746C4.54296 7.76241 4.98948 7.37805 5.51572 7.1405C6.04197 6.90296 6.62559 6.82231 7.19653 6.90825C7.76748 6.99419 8.3015 7.24306 8.7345 7.625M9 9.125L9.75 9.875L11.25 8.375M8.625 5C8.625 6.03553 7.78553 6.875 6.75 6.875C5.71447 6.875 4.875 6.03553 4.875 5C4.875 3.96447 5.71447 3.125 6.75 3.125C7.78553 3.125 8.625 3.96447 8.625 5Z" stroke="#1A6D73" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_1_132">
+<rect width="9" height="9" fill="white" transform="translate(3 2)"/>
+</clipPath>
+</defs>
+</svg>
